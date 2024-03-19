@@ -1,0 +1,4 @@
+BGNN_graph : normal BGNN
+BGNN_graph_F : 带有某种特殊F_init value的BGNN
+BGNN_graph_1: F的更新直接利用所有的C和H
+BGNN_graph_C: 基于codebook的BGNN
